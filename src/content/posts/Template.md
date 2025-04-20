@@ -7,4 +7,3 @@ slug: template
 ---
 
 你好
-呵呵呵
