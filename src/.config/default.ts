@@ -5,10 +5,10 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '活版印字',
-    subtitle: 'Typography',
-    author: 'Moeyua',
-    description: 'Rediscory the beauty of typography',
+    title: '陈嘉纬的博客',
+    subtitle: 'AlexJiaweiChen',
+    author: 'AlexJiaweiChen',
+    description: 'Alex Jiawei Chen's Blog Page',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
     socialLinks: [
