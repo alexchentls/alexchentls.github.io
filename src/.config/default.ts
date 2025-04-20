@@ -14,7 +14,7 @@ export const defaultConfig: ThemeConfig = {
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://github.com/alexchentls/alexchentls.github.io',
       },
       {
         name: 'rss',
@@ -22,7 +22,7 @@ export const defaultConfig: ThemeConfig = {
       },
       {
         name: 'twitter',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://x.com/alexchentls',
       },
       {
         name: 'mastodon',
