@@ -5,16 +5,16 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '陈嘉纬的博客',
-    subtitle: 'Alex Jiawei Chen's Blog',
-    author: 'Alex Jiawei Chen',
+    title: '活版印字',
+    subtitle: 'Typography',
+    author: 'Moeyua',
     description: 'Rediscory the beauty of typography',
-    website: 'https://space.bilibili.com/388842805',
+    website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/alexchentls/alexchentls.github.io',
+        href: 'https://github.com/moeyua/astro-theme-typography',
       },
       {
         name: 'rss',
@@ -22,7 +22,7 @@ export const defaultConfig: ThemeConfig = {
       },
       {
         name: 'twitter',
-        href: 'https://x.com/alexchentls',
+        href: 'https://github.com/moeyua/astro-theme-typography',
       },
       {
         name: 'mastodon',
