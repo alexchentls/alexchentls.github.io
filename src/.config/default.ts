@@ -26,7 +26,7 @@ export const defaultConfig: ThemeConfig = {
       },
       {
         name: 'mastodon',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://mastodon.social/@alexchentls',
       },
     ],
     navLinks: [
