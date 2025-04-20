@@ -1,6 +1,9 @@
 ---
-title: 关于
-pubDate: 2024-12-06
+title: About Me 关于
+pubDate: 2024-12-06a
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+Jiawei Chen (陈嘉纬) is a current Mathematics and Computer Science undergrad at <a href="https://siebelschool.illinois.edu/">University of Illinois Urbana Champagne</a>.
+
+His <a href="https://space.bilibili.com/388842805">bilibili page</a>.
+
