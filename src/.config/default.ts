@@ -7,9 +7,9 @@ export const defaultConfig: ThemeConfig = {
   site: {
     title: '陈嘉纬的博客',
     subtitle: 'Alex Jiawei Chen',
-    author: 'Moeyua',
-    description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    author: 'Alex Jiawei Chen',
+    description: 'Tracks and lines',
+    website: 'https://github.com/alexchentls',
     pageSize: 5,
     socialLinks: [
       {
