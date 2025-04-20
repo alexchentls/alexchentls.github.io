@@ -6,7 +6,7 @@ import type { ThemeConfig } from '~/types'
 export const defaultConfig: ThemeConfig = {
   site: {
     title: '陈嘉纬的博客',
-    subtitle: 'Alex Jiawei Chen',
+    subtitle: 'Alex Jiawei Chen\'s Blog',
     author: 'Alex Jiawei Chen',
     description: 'Tracks and lines',
     website: 'https://github.com/alexchentls',
