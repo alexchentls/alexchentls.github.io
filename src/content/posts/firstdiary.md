@@ -1,5 +1,5 @@
 ---
-title: All Diaries
+title: All Diaries 2025
 pubDate: 2025-06-16
 categories: ['Articles']
 description: 'There must be more to life than this'
